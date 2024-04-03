@@ -1,0 +1,1 @@
+# django-so-um-teste
